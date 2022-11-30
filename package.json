@@ -1,0 +1,30 @@
+{
+  "name": "react-native",
+  "version": "1.0.0",
+  "description": "React Native for Web starter template",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@unimodules/core": "5.5.1",
+    "@unimodules/react-native-adapter": "5.6.0",
+    "expo-image-picker": "9.1.1",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-native-image-crop-picker": "0.35.1",
+    "react-native-progress": "4.1.2",
+    "react-native-progress-circle": "2.1.0",
+    "react-native-tesseract-ocr": "2.0.1",
+    "react-native-web": "0.13.16",
+    "react-scripts": "3.4.1",
+    "tesseract.js": "2.0.0-alpha.10",
+    "tesseract.js-core": "2.0.0-beta.11",
+    "unimodules-permissions-interface": "5.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
